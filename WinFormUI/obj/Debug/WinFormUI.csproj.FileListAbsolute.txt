@@ -1,0 +1,14 @@
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\WinFormUI\bin\Debug\PersonText.txt
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\WinFormUI\bin\Debug\DemoLibrary.dll
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\WinFormUI\obj\Debug\WinFormUI.csproj.AssemblyReference.cache
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\WinFormUI\obj\Debug\WinFormUI.pdb

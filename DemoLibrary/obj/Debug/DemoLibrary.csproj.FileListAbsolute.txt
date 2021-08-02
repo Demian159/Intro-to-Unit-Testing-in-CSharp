@@ -1,0 +1,6 @@
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\adrian.salatino\Programación\Proyectos\VS\IntroToUnitTesting\DemoLibrary\obj\Debug\DemoLibrary.pdb
